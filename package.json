@@ -1,0 +1,26 @@
+{
+  "name": "peta",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node testnode.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "ejs": "0.8.3",
+    "express": "~3.2.0",
+    "mongodb": "~1.4.40",
+    "mysql2geojson": "^0.1.1",
+    "socket.io": "0.9.14",
+    "dbgeo": "~0.1.1",
+    "wellknown": "~0.4.2",
+    "topojson": "~1.6.26",
+    "wkx": "~0.2.0",
+    "async": "~2.0.0-rc.5"
+  },
+  "description": "keren",
+  "main": "testnode.js",
+  "devDependencies": {},
+  "author": "bhagas",
+  "license": "ISC"
+}
